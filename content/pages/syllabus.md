@@ -58,15 +58,310 @@ Course Outline
 
 The course is organized around ten topics or sections with subsections listed below.
 
-| TOPIC # | TOPICS |
-| --- | --- |
-| 1 | {{< h 3 >}}Fluctuations facts{{< /h >}} {{< br >}}{{< br >}} Covariance stationarity {{< br >}}{{< br >}} Trends/cycles decompositions {{< br >}}{{< br >}} Shocks and propagation mechanisms Wold representation {{< br >}}{{< br >}} ARMAs, VARs, SVARS {{< br >}}{{< br >}} Impulse responses {{< br >}}{{< br >}} Co-movements of GDP components {{< br >}}{{< br >}} Correlations between real wages, interest rates, and output {{< br >}}{{< br >}} The correlations of output and money {{< br >}}{{< br >}} Cycles, slumps, and depressions {{< br >}}{{< br >}} Nonlinearities {{< br >}}{{< br >}}  |
-| 2 | {{< h 3 >}}The basic model: The consumption/saving choice{{< /h >}} {{< br >}}{{< br >}} Setting up the optimization problem {{< br >}}{{< br >}} Intertemporal choice, shocks, uncertainty {{< br >}}{{< br >}} The first order conditions {{< br >}}{{< br >}} The Keynes-Ramsey condition {{< br >}}{{< br >}} Solving the model numerically {{< br >}}{{< br >}} Value functions {{< br >}}{{< br >}} Log linearization {{< br >}}{{< br >}} Special cases and other short cuts {{< br >}}{{< br >}} Equivalence between centralized and decentralized economies {{< br >}}{{< br >}} The consumption problem in the decentralized economy {{< br >}}{{< br >}}  |
-| 3 | {{< h 3 >}}Allowing for labor/leisure choice (the RBC model){{< /h >}} {{< br >}}{{< br >}} Movements in employment/unemployment {{< br >}}{{< br >}} Interpreting the first order conditions {{< br >}}{{< br >}} Solving the model numerically, and by log linearization {{< br >}}{{< br >}} Special case: Log and full depreciation {{< br >}}{{< br >}} Evidence on labor supply elasticity {{< br >}}{{< br >}} Evidence on high frequency technological shocks {{< br >}}{{< br >}} Solow residuals and their interpretation {{< br >}}{{< br >}} Alternative approaches {{< br >}}{{< br >}}  |
-| 4 | {{< h 3 >}}Allowing for non-trivial investment decisions{{< /h >}} {{< br >}}{{< br >}} Costs of adjustment for investment {{< br >}}{{< br >}} Investment, consumption, and interest rates in the decentralized economy {{< br >}}{{< br >}} The role of the term structure of interest rates {{< br >}}{{< br >}} The stock market and investment {{< br >}}{{< br >}} The effects of shocks on output, investment, the stock market, and the term structure {{< br >}}{{< br >}} The open economy version {{< br >}}{{< br >}} Shocks, investment, saving, and movements in the current account {{< br >}}{{< br >}} Asset price bubbles, investment, and fluctuations {{< br >}}{{< br >}}  |
-| 5 | {{< h 3 >}}Allowing for two goods{{< /h >}} {{< br >}}{{< br >}} Why introduce two goods? {{< br >}}{{< br >}} The pitfalls of one-good models {{< br >}}{{< br >}} Capital/consumption goods {{< br >}}{{< br >}} Tradable/non tradable goods {{< br >}}{{< br >}} Domestic/foreign goods {{< br >}}{{< br >}} The consumer problem with two goods {{< br >}}{{< br >}} Intratemporal and intertemporal first order conditions {{< br >}}{{< br >}} Closing the model if tradables/non tradables {{< br >}}{{< br >}} The Balassa-Samuelson effect {{< br >}}{{< br >}} The transfer problem {{< br >}}{{< br >}} Effects of technological shocks on relative prices, and on the current account {{< br >}}{{< br >}} Global imbalances {{< br >}}{{< br >}}  |
-| 6 | {{< h 3 >}}Introducing money{{< /h >}} {{< br >}}{{< br >}} Decentralized exchange and the use of money {{< br >}}{{< br >}} Cash-in-advance models {{< br >}}{{< br >}} Money in the utility function {{< br >}}{{< br >}} The effects of money growth on capital accumulation {{< br >}}{{< br >}} Dynamics of hyperinflation {{< br >}}{{< br >}} The Cagan model {{< br >}}{{< br >}} The budget deficit and money growth {{< br >}}{{< br >}}  |
-| 7 | {{< h 3 >}}Introducing price setting{{< /h >}} {{< br >}}{{< br >}} Decentralized exchange, money, and price setters {{< br >}}{{< br >}} A yeoman farmer model of price setting under monopolistic competition {{< br >}}{{< br >}} The role of price above marginal cost, markups {{< br >}}{{< br >}} Predetermined prices {{< br >}}{{< br >}} The effects of money on output and welfare {{< br >}}{{< br >}} Role of wage versus price setting {{< br >}}{{< br >}} The behavior of real wages {{< br >}}{{< br >}} Revisiting the effects of technological and other shocks {{< br >}}{{< br >}} Indexation {{< br >}}{{< br >}} Macroimplications of the choice of numeraire {{< br >}}{{< br >}} The monetary policy problem {{< br >}}{{< br >}} Time consistency {{< br >}}{{< br >}}  |
-| 8 | {{< h 3 >}}The "new Keynesian" model{{< /h >}} {{< br >}}{{< br >}} Staggering of price decisions {{< br >}}{{< br >}} Fischer-Taylor-Calvo models {{< br >}}{{< br >}} Coordination problems {{< br >}}{{< br >}} The "modern Phillips curve" {{< br >}}{{< br >}} Inflation inertia? {{< br >}}{{< br >}} The "modern IS-LM model," and the "modern AS-AD model" {{< br >}}{{< br >}} A second look at productivity booms {{< br >}}{{< br >}}  |
-| 9 | {{< h 3 >}}Monetary policy{{< /h >}} {{< br >}}{{< br >}} Time consistency {{< br >}}{{< br >}} Inflation targeting {{< br >}}{{< br >}} Interest rate rules {{< br >}}{{< br >}} The liquidity trap {{< br >}}{{< br >}}  |
-| 10 | {{< h 3 >}}Fiscal policy{{< /h >}} {{< br >}}{{< br >}} Effects of spending and taxes in models with flexible or sticky prices {{< br >}}{{< br >}} Empirical evidence {{< br >}}{{< br >}} Perverse effects of fiscal expansions {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPIC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Fluctuations facts
+
+Covariance stationarity
+
+Trends/cycles decompositions
+
+Shocks and propagation mechanisms Wold representation
+
+ARMAs, VARs, SVARS
+
+Impulse responses
+
+Co-movements of GDP components
+
+Correlations between real wages, interest rates, and output
+
+The correlations of output and money
+
+Cycles, slumps, and depressions
+
+Nonlinearities
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### The basic model: The consumption/saving choice
+
+Setting up the optimization problem
+
+Intertemporal choice, shocks, uncertainty
+
+The first order conditions
+
+The Keynes-Ramsey condition
+
+Solving the model numerically
+
+Value functions
+
+Log linearization
+
+Special cases and other short cuts
+
+Equivalence between centralized and decentralized economies
+
+The consumption problem in the decentralized economy
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Allowing for labor/leisure choice (the RBC model)
+
+Movements in employment/unemployment
+
+Interpreting the first order conditions
+
+Solving the model numerically, and by log linearization
+
+Special case: Log and full depreciation
+
+Evidence on labor supply elasticity
+
+Evidence on high frequency technological shocks
+
+Solow residuals and their interpretation
+
+Alternative approaches
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Allowing for non-trivial investment decisions
+
+Costs of adjustment for investment
+
+Investment, consumption, and interest rates in the decentralized economy
+
+The role of the term structure of interest rates
+
+The stock market and investment
+
+The effects of shocks on output, investment, the stock market, and the term structure
+
+The open economy version
+
+Shocks, investment, saving, and movements in the current account
+
+Asset price bubbles, investment, and fluctuations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Allowing for two goods
+
+Why introduce two goods?
+
+The pitfalls of one-good models
+
+Capital/consumption goods
+
+Tradable/non tradable goods
+
+Domestic/foreign goods
+
+The consumer problem with two goods
+
+Intratemporal and intertemporal first order conditions
+
+Closing the model if tradables/non tradables
+
+The Balassa-Samuelson effect
+
+The transfer problem
+
+Effects of technological shocks on relative prices, and on the current account
+
+Global imbalances
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Introducing money
+
+Decentralized exchange and the use of money
+
+Cash-in-advance models
+
+Money in the utility function
+
+The effects of money growth on capital accumulation
+
+Dynamics of hyperinflation
+
+The Cagan model
+
+The budget deficit and money growth
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Introducing price setting
+
+Decentralized exchange, money, and price setters
+
+A yeoman farmer model of price setting under monopolistic competition
+
+The role of price above marginal cost, markups
+
+Predetermined prices
+
+The effects of money on output and welfare
+
+Role of wage versus price setting
+
+The behavior of real wages
+
+Revisiting the effects of technological and other shocks
+
+Indexation
+
+Macroimplications of the choice of numeraire
+
+The monetary policy problem
+
+Time consistency
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### The "new Keynesian" model
+
+Staggering of price decisions
+
+Fischer-Taylor-Calvo models
+
+Coordination problems
+
+The "modern Phillips curve"
+
+Inflation inertia?
+
+The "modern IS-LM model," and the "modern AS-AD model"
+
+A second look at productivity booms
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Monetary policy
+
+Time consistency
+
+Inflation targeting
+
+Interest rate rules
+
+The liquidity trap
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Fiscal policy
+
+Effects of spending and taxes in models with flexible or sticky prices
+
+Empirical evidence
+
+Perverse effects of fiscal expansions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
