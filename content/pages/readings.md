@@ -154,7 +154,7 @@ OR, chapters 1 and 2.
 
 Campbell, J. "Inspecting the Mechanism: An Analytical Approach to the Stochastic Growth Model." _Journal of Monetary Economics_ 33, no. 3 (June 1994): 463-506.
 
-Uhlig, H. "A Toolkit for Analyzing Nonlinear Dynamic Stochastic Models Easily." mimeo University of Tilburg, 1997. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.143.1003&rep=rep1&type=pdf))
+Uhlig, H. "A Toolkit for Analyzing Nonlinear Dynamic Stochastic Models Easily." mimeo University of Tilburg, 1997. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.143.1003&rep=rep1&type=pdf))
 
 
 {{< tdclose >}}
@@ -446,11 +446,11 @@ BF, chapters 8-2 and 8-3.
 
 MW, chapter 3-2, "Optimizing Models with Nominal Rigidities," and "Inflation Dynamics with Staggered Price Setting."
 
-King, R. "The New IS-LM model: Language, Logic, and Limits." _Federal Reserve Bank of Richmond Economic Quarterly_ 86, no. 3 (Summer 2000): 45-103. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.richmondfed.org/publications/research/economic_quarterly/2000/summer/pdf/king.pdf))
+King, R. "The New IS-LM model: Language, Logic, and Limits." _Federal Reserve Bank of Richmond Economic Quarterly_ 86, no. 3 (Summer 2000): 45-103. ([PDF](http://www.richmondfed.org/publications/research/economic_quarterly/2000/summer/pdf/king.pdf))
 
 Blanchard, O., and J. Gali. "[Real Wage Rigidities and the New Keynesian Model](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=842285)." mimeo MIT, February 2006.
 
-Beaudry, P., and F. Portier. "Stock Prices, News, and Economic Fluctuations." mimeo University of British Columbia, March 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.nber.org/papers/w10548.pdf))
+Beaudry, P., and F. Portier. "Stock Prices, News, and Economic Fluctuations." mimeo University of British Columbia, March 2004. ([PDF](https://www.nber.org/papers/w10548.pdf))
 
 Lorenzoni, G. "[A Theory of Demand Shocks](http://economics.mit.edu/files/3758/)." mimeo MIT, November 2006.
 
@@ -494,7 +494,7 @@ Gali, J. "[New Perspectives on Monetary Policy, Inflation, and the Business Cycl
 
 King, M. "What has Inflation Targeting Achieved?" In _The Inflation-Targeting Debate_. Edited by B. Bernanke and M. Woodford. Chicago, IL: University of Chicago Press, 2005. ISBN: 9780226044712.
 
-Bernanke, B., V. Reinhart, and B. Sack. "Monetary Policy Alternatives at the Zero Bound. An empirical assessment." _Finance and Economics Discussion Series 2004-48_. Washington, DC: Divisions of Research and Statistics and Monetary Affairs, Federal Reserve Board, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.federalreserve.gov/pubs/feds/2004/200448/200448pap.pdf))
+Bernanke, B., V. Reinhart, and B. Sack. "Monetary Policy Alternatives at the Zero Bound. An empirical assessment." _Finance and Economics Discussion Series 2004-48_. Washington, DC: Divisions of Research and Statistics and Monetary Affairs, Federal Reserve Board, 2004. ([PDF](http://www.federalreserve.gov/pubs/feds/2004/200448/200448pap.pdf))
 
 Svensson, L. "[Escaping from a Liquidity Trap and Deflation: The Foolproof Way and Others](http://www.nber.org/papers/w10195)." National Bureau of Economic Research Working Paper No. 10195 (December 2003): 1-24.
 
