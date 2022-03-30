@@ -6,6 +6,7 @@ description: This resource contains lecture slides with an introduction and info
   prices, and co-movements of output and money.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-452-macroeconomic-theory-ii-spring-2007/022efc2dd6c0228a09baeb0558725a04_slides01.pdf
 file_type: application/pdf
+parent_uid: f148feb1-d280-7721-47ce-6279e4112ae6
 resourcetype: Document
 title: slides01.pdf
 uid: 022efc2d-d6c0-228a-09ba-eb0558725a04

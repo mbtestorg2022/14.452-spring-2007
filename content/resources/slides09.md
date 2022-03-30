@@ -4,6 +4,7 @@ description: This resource contains lecture slides on monetary policy, time cons
   the inflation-output trade-off, and interest rate rules.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-452-macroeconomic-theory-ii-spring-2007/4779abf10124dabb8ee12776e837290b_slides09.pdf
 file_type: application/pdf
+parent_uid: f148feb1-d280-7721-47ce-6279e4112ae6
 resourcetype: Document
 title: slides09.pdf
 uid: 4779abf1-0124-dabb-8ee1-2776e837290b

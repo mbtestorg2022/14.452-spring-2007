@@ -7,6 +7,7 @@ description: This resource contains lecture slides on consumption/saving and pro
   stochastic dynamic programming, and the decentralized economy.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-452-macroeconomic-theory-ii-spring-2007/8da7b686ffeed4bc6d2f1cd4a32f6950_slides02.pdf
 file_type: application/pdf
+parent_uid: f148feb1-d280-7721-47ce-6279e4112ae6
 resourcetype: Document
 title: slides02.pdf
 uid: 8da7b686-ffee-d4bc-6d2f-1cd4a32f6950
